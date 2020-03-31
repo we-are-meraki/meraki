@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Product"
+    url: https://we-are-meraki.github.io/product
+   - title: "Science"
+     url: https://we-are-meraki.github.io/science
+   - title: "Team"
+    url: https://we-are-meraki.github.io/team
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
