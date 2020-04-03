@@ -2,10 +2,10 @@
 main:
   - title: "Product"
     url: https://we-are-meraki.github.io/product
-   - title: "Science"
-     url: https://we-are-meraki.github.io/science
-   - title: "Team"
-    url: https://we-are-meraki.github.io/team
+  #  - title: "Science"
+  #   url: https://we-are-meraki.github.io/science
+  # - title: "Team"
+  #   url: https://we-are-meraki.github.io/team
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
